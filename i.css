@@ -1,0 +1,29 @@
+.h{display: flex;
+    background-color: white;
+    margin:0px;
+    padding: 10px 10px;
+    border: 0px;
+
+
+}
+
+
+
+.icon{display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    padding: 20px 180px;
+    margin: 0px 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 100px;
+    align-items: center;
+    text-align: center;
+
+}
+
+div.div2{
+
+    display: flex;
+}
+
